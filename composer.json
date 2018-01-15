@@ -13,10 +13,9 @@
             "email": "hawaker@gmail.com"
         }
     ],
-		"autoload":{
-			"psr-4":{
-				"tumblrapi\\":"src"
-			}
-		},
-    "minimum-stability": "stable"
+    "autoload": {
+        "psr-4": {
+            "tumblrapi\\": "src/"
+        }
+    }
 }
