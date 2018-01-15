@@ -1,5 +1,5 @@
 <?php
-namespace tumblrv1;
+namespace tumblrapi;
 
 use Exception;
 use GuzzleHttp\Client;

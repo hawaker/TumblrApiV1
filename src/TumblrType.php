@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace tumblrv1;
+namespace tumblrapi;
 
 /**
  * Description of TumblrType
