@@ -1,0 +1,22 @@
+{
+    "name": "hawaker/tumblrapi",
+    "description": "tumblr api v1",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "php": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hawaker",
+            "email": "hawaker@gmail.com"
+        }
+    ],
+		"autoload":{
+			"psr-4":{
+				"tumblrapi\\":"src"
+			}
+		},
+    "minimum-stability": "stable"
+}
